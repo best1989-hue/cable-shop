@@ -1,0 +1,4 @@
+# ТЕСТОВАЯ ВЕРСИЯ: индексация закрыта (site.config.js → noindex: true).
+# Боевой вариант: robots.production.txt
+User-agent: *
+Disallow: /

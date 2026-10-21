@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+<channel>
+<title>[НАЗВАНИЕ]</title>
+<link>https://best1989-hue.github.io/cable-shop/</link>
+<description>Товарный фид: только позиции с ценой</description>
+<item>
+<g:id>1061</g:id>
+<g:title>Кабель КСПВ 4×0,5</g:title>
+<g:description>Кабель сигнальный КСПВ 4×0,5. Охранная сигнализация, домофония, линии связи и управления внутри зданий. Размер: число жил × диаметр жилы, мм.</g:description>
+<g:link>https://best1989-hue.github.io/cable-shop/catalog/svyaz/kspv-4x0-5/</g:link>
+<g:image_link>https://best1989-hue.github.io/cable-shop/img/p/kspv-4x0-5.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>backorder</g:availability>
+<g:price>37.18 RUB</g:price>
+
+<g:identifier_exists>no</g:identifier_exists>
+<g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Electrical Wires &amp; Cable</g:google_product_category>
+<g:product_type>Кабель и провод &gt; Кабель связи и слаботочный</g:product_type>
+<g:product_detail><g:section_name>Характеристики</g:section_name><g:attribute_name>Марка</g:attribute_name><g:attribute_value>КСПВ</g:attribute_value></g:product_detail>
+<g:product_detail><g:section_name>Характеристики</g:section_name><g:attribute_name>Типоразмер</g:attribute_name><g:attribute_value>4×0,5</g:attribute_value></g:product_detail>
+<g:product_detail><g:section_name>Характеристики</g:section_name><g:attribute_name>Число жил</g:attribute_name><g:attribute_value>4</g:attribute_value></g:product_detail>
+<g:product_detail><g:section_name>Характеристики</g:section_name><g:attribute_name>Сечение</g:attribute_name><g:attribute_value>диаметр жилы 0,5 мм</g:attribute_value></g:product_detail>
+<g:product_detail><g:section_name>Характеристики</g:section_name><g:attribute_name>Материал жилы</g:attribute_name><g:attribute_value>медь</g:attribute_value></g:product_detail>
+<g:product_detail><g:section_name>Характеристики</g:section_name><g:attribute_name>Напряжение</g:attribute_name><g:attribute_value>слаботочные цепи</g:attribute_value></g:product_detail>
+<g:product_detail><g:section_name>Характеристики</g:section_name><g:attribute_name>Исполнение</g:attribute_name><g:attribute_value>—</g:attribute_value></g:product_detail>
+<g:product_detail><g:section_name>Характеристики</g:section_name><g:attribute_name>Стандарт</g:attribute_name><g:attribute_value>ТУ завода</g:attribute_value></g:product_detail>
+</item>
+<item>
+<g:id>1062</g:id>
+<g:title>Кабель КСПВ 8×0,5</g:title>
+<g:description>Кабель сигнальный КСПВ 8×0,5. Охранная сигнализация, домофония, линии связи и управления внутри зданий. Размер: число жил × диаметр жилы, мм.</g:description>
+<g:link>https://best1989-hue.github.io/cable-shop/catalog/svyaz/kspv-8x0-5/</g:link>
+<g:image_link>https://best1989-hue.github.io/cable-shop/img/p/kspv-8x0-5.png</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>backorder</g:availability>
+<g:price>70.51 RUB</g:price>
+
+<g:identifier_exists>no</g:identifier_exists>
+<g:google_product_category>Hardware &gt; Power &amp; Electrical Supplies &gt; Electrical Wires &amp; Cable</g:google_product_category>
+<g:product_type>Кабель и провод &gt; Кабель связи и слаботочный</g:product_type>
+<g:product_detail><g:section_name>Характеристики</g:section_name><g:attribute_name>Марка</g:attribute_name><g:attribute_value>КСПВ</g:attribute_value></g:product_detail>
+<g:product_detail><g:section_name>Характеристики</g:section_name><g:attribute_name>Типоразмер</g:attribute_name><g:attribute_value>8×0,5</g:attribute_value></g:product_detail>
+<g:product_detail><g:section_name>Характеристики</g:section_name><g:attribute_name>Число жил</g:attribute_name><g:attribute_value>8</g:attribute_value></g:product_detail>
+<g:product_detail><g:section_name>Характеристики</g:section_name><g:attribute_name>Сечение</g:attribute_name><g:attribute_value>диаметр жилы 0,5 мм</g:attribute_value></g:product_detail>
+<g:product_detail><g:section_name>Характеристики</g:section_name><g:attribute_name>Материал жилы</g:attribute_name><g:attribute_value>медь</g:attribute_value></g:product_detail>
+<g:product_detail><g:section_name>Характеристики</g:section_name><g:attribute_name>Напряжение</g:attribute_name><g:attribute_value>слаботочные цепи</g:attribute_value></g:product_detail>
+<g:product_detail><g:section_name>Характеристики</g:section_name><g:attribute_name>Исполнение</g:attribute_name><g:attribute_value>—</g:attribute_value></g:product_detail>
+<g:product_detail><g:section_name>Характеристики</g:section_name><g:attribute_name>Стандарт</g:attribute_name><g:attribute_value>ТУ завода</g:attribute_value></g:product_detail>
+</item>
+</channel>
+</rss>

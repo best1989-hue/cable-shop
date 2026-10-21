@@ -1,0 +1,37 @@
+# [НАЗВАНИЕ]
+
+> Оптовые поставки кабельно-проводниковой продукции российских заводов для B2B: подрядчики, застройщики, промпредприятия, щитовые производства, снабженцы. Счёт и КП по спецификации, без онлайн-оплаты. Цены и наличие — по запросу.
+
+Ключевые факты:
+- Каталог: 62 типовых позиций, 24 марок, 9 категорий.
+- Покупка: корзина = запрос счёта/КП; можно загрузить спецификацию (Excel/PDF/фото).
+- Контакты: [телефон уточняется], [email уточняется].
+
+## Каталог
+- [Силовой кабель с медными жилами](https://best1989-hue.github.io/cable-shop/catalog/silovoy-mednyy/): ВВГнг(А)-LS, ВВГ-Пнг(А)-LS, ВВГнг(А)
+- [Силовой кабель с алюминиевыми жилами](https://best1989-hue.github.io/cable-shop/catalog/silovoy-alyuminievyy/): АВВГнг(А)-LS, АВВГ
+- [Контрольный кабель](https://best1989-hue.github.io/cable-shop/catalog/kontrolnyy/): КВВГнг(А)-LS, КВВГЭнг(А)-LS
+- [Гибкий кабель](https://best1989-hue.github.io/cable-shop/catalog/gibkiy/): КГ
+- [Провода установочные и соединительные](https://best1989-hue.github.io/cable-shop/catalog/provoda/): ПВС, ШВВП, ПуГВ, ПуВ
+- [Самонесущий изолированный провод (СИП)](https://best1989-hue.github.io/cable-shop/catalog/sip/): СИП-2, СИП-4, СИП-3
+- [Бронированный кабель](https://best1989-hue.github.io/cable-shop/catalog/bronirovannyy/): ВБШвнг(А)-LS, АПвБбШв
+- [Огнестойкий и безгалогенный кабель](https://best1989-hue.github.io/cable-shop/catalog/ognestoykiy/): КВВГнг(А)-FRLS, ВВГнг(А)-FRLS, ППГнг(А)-FRHF, КПСнг(А)-FRLS
+- [Кабель связи и слаботочный](https://best1989-hue.github.io/cable-shop/catalog/svyaz/): U/UTP кат.5e нг(А)-LS, F/UTP кат.5e нг(А)-LS, КСПВ
+
+## Справочник
+- [Как расшифровать марку кабеля](https://best1989-hue.github.io/cable-shop/spravochnik/rasshifrovka-markirovki-kabelya/): Марка кабеля читается слева направо: материал жилы → назначение (если есть) → изоляция → оболочка → защитный покров → суффикс пожарной безопасности. Если первой
+- [Как выбрать сечение кабеля по нагрузке](https://best1989-hue.github.io/cable-shop/spravochnik/kak-vybrat-sechenie-kabelya/): Сечение выбирают так, чтобы расчётный ток линии не превышал допустимый длительный ток кабеля по ПУЭ (глава 1.3) с учётом способа прокладки, после чего проверяют
+- [нг(А), LS, FRLS, HF — чем отличаются исполнения кабеля](https://best1989-hue.github.io/cable-shop/spravochnik/ng-ls-frls-hf-otlichiya/): Суффикс после «нг» показывает пожарные свойства кабеля по ГОСТ 31565-2012: нг(А) — не распространяет горение при групповой прокладке, LS — меньше дыма, HF — без
+- [Медь или алюминий: какой кабель выбрать](https://best1989-hue.github.io/cable-shop/spravochnik/med-ili-alyuminiy/): Медь проводит ток лучше, поэтому при одинаковой нагрузке медный кабель тоньше. Алюминий легче и дешевле, но требует большего сечения и аккуратных соединений. По
+- [Как проверить кабель при приёмке на объекте](https://best1989-hue.github.io/cable-shop/spravochnik/kak-proverit-kabel-pri-priemke/): При приёмке сверьте маркировку на оболочке с маркой в счёте и паспорте, проверьте этикетку барабана или бухты, наличие документов на партию и при сомнениях — фа
+
+## Покупателям
+- [Подбор кабеля по объекту](https://best1989-hue.github.io/cable-shop/podbor/)
+- [Опт и условия](https://best1989-hue.github.io/cable-shop/opt/)
+- [Доставка и резка](https://best1989-hue.github.io/cable-shop/dostavka-i-rezka/)
+- [Документы](https://best1989-hue.github.io/cable-shop/dokumenty/)
+- [Заводы-производители](https://best1989-hue.github.io/cable-shop/zavody/)
+- [Контакты](https://best1989-hue.github.io/cable-shop/kontakty/)
+
+## Optional
+- [Полный каталог в Markdown](https://best1989-hue.github.io/cable-shop/llms-full.txt)

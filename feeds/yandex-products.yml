@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-21 11:58">
+<shop>
+<name>[НАЗВАНИЕ]</name>
+<company>[реквизиты уточняются]</company>
+<url>https://best1989-hue.github.io/cable-shop/</url>
+<currencies><currency id="RUR" rate="1"/></currencies>
+<categories>
+<category id="1">Силовой кабель с медными жилами</category>
+<category id="2">Силовой кабель с алюминиевыми жилами</category>
+<category id="3">Контрольный кабель</category>
+<category id="4">Гибкий кабель</category>
+<category id="5">Провода установочные и соединительные</category>
+<category id="6">Самонесущий изолированный провод (СИП)</category>
+<category id="7">Бронированный кабель</category>
+<category id="8">Огнестойкий и безгалогенный кабель</category>
+<category id="9">Кабель связи и слаботочный</category>
+</categories>
+<offers>
+<offer id="1061">
+<name>Кабель КСПВ 4×0,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/svyaz/kspv-4x0-5/</url>
+<price>37.18</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/kspv-4x0-5.png</picture>
+<description>Кабель сигнальный КСПВ 4×0,5. Охранная сигнализация, домофония, линии связи и управления внутри зданий. Размер: число жил × диаметр жилы, мм.</description>
+<sales_notes>Опт для юрлиц, счёт по спецификации</sales_notes>
+<param name="Марка">КСПВ</param>
+<param name="Типоразмер">4×0,5</param>
+<param name="Число жил">4</param>
+<param name="Сечение">диаметр жилы 0,5 мм</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">слаботочные цепи</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ТУ завода</param>
+</offer>
+<offer id="1062">
+<name>Кабель КСПВ 8×0,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/svyaz/kspv-8x0-5/</url>
+<price>70.51</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/kspv-8x0-5.png</picture>
+<description>Кабель сигнальный КСПВ 8×0,5. Охранная сигнализация, домофония, линии связи и управления внутри зданий. Размер: число жил × диаметр жилы, мм.</description>
+<sales_notes>Опт для юрлиц, счёт по спецификации</sales_notes>
+<param name="Марка">КСПВ</param>
+<param name="Типоразмер">8×0,5</param>
+<param name="Число жил">8</param>
+<param name="Сечение">диаметр жилы 0,5 мм</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">слаботочные цепи</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ТУ завода</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

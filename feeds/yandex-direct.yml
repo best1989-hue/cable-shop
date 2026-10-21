@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-21 11:58">
+<shop>
+<name>[НАЗВАНИЕ]</name>
+<company>[реквизиты уточняются]</company>
+<url>https://best1989-hue.github.io/cable-shop/</url>
+<currencies><currency id="RUR" rate="1"/></currencies>
+<categories>
+<category id="1">Силовой кабель с медными жилами</category>
+<category id="2">Силовой кабель с алюминиевыми жилами</category>
+<category id="3">Контрольный кабель</category>
+<category id="4">Гибкий кабель</category>
+<category id="5">Провода установочные и соединительные</category>
+<category id="6">Самонесущий изолированный провод (СИП)</category>
+<category id="7">Бронированный кабель</category>
+<category id="8">Огнестойкий и безгалогенный кабель</category>
+<category id="9">Кабель связи и слаботочный</category>
+</categories>
+<offers>
+<offer id="1001">
+<name>Кабель ВВГнг(А)-LS 3×1,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/silovoy-mednyy/vvgng-a-ls-3x1-5/</url>
+<categoryId>1</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/vvgng-a-ls-3x1-5.jpg</picture>
+<description>Кабель силовой ВВГнг(А)-LS 3×1,5. Внутренние электроустановки, здания и закрытые кабельные сооружения: групповые и распределительные сети, питание щитов и оборудования. Область применения исполнения нг(А)-LS — по ГОСТ 31565-2012.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ВВГнг(А)-LS</param>
+<param name="Типоразмер">3×1,5</param>
+<param name="Число жил">3</param>
+<param name="Сечение">1,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1002">
+<name>Кабель ВВГнг(А)-LS 3×2,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/silovoy-mednyy/vvgng-a-ls-3x2-5/</url>
+<categoryId>1</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/vvgng-a-ls-3x2-5.jpg</picture>
+<description>Кабель силовой ВВГнг(А)-LS 3×2,5. Внутренние электроустановки, здания и закрытые кабельные сооружения: групповые и распределительные сети, питание щитов и оборудования. Область применения исполнения нг(А)-LS — по ГОСТ 31565-2012.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ВВГнг(А)-LS</param>
+<param name="Типоразмер">3×2,5</param>
+<param name="Число жил">3</param>
+<param name="Сечение">2,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1003">
+<name>Кабель ВВГнг(А)-LS 3×4</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/silovoy-mednyy/vvgng-a-ls-3x4/</url>
+<categoryId>1</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/vvgng-a-ls-3x4.jpg</picture>
+<description>Кабель силовой ВВГнг(А)-LS 3×4. Внутренние электроустановки, здания и закрытые кабельные сооружения: групповые и распределительные сети, питание щитов и оборудования. Область применения исполнения нг(А)-LS — по ГОСТ 31565-2012.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ВВГнг(А)-LS</param>
+<param name="Типоразмер">3×4</param>
+<param name="Число жил">3</param>
+<param name="Сечение">4 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1004">
+<name>Кабель ВВГнг(А)-LS 3×6</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/silovoy-mednyy/vvgng-a-ls-3x6/</url>
+<categoryId>1</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/vvgng-a-ls-3x6.jpg</picture>
+<description>Кабель силовой ВВГнг(А)-LS 3×6. Внутренние электроустановки, здания и закрытые кабельные сооружения: групповые и распределительные сети, питание щитов и оборудования. Область применения исполнения нг(А)-LS — по ГОСТ 31565-2012.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ВВГнг(А)-LS</param>
+<param name="Типоразмер">3×6</param>
+<param name="Число жил">3</param>
+<param name="Сечение">6 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1005">
+<name>Кабель ВВГнг(А)-LS 5×2,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/silovoy-mednyy/vvgng-a-ls-5x2-5/</url>
+<categoryId>1</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/vvgng-a-ls-5x2-5.jpg</picture>
+<description>Кабель силовой ВВГнг(А)-LS 5×2,5. Внутренние электроустановки, здания и закрытые кабельные сооружения: групповые и распределительные сети, питание щитов и оборудования. Область применения исполнения нг(А)-LS — по ГОСТ 31565-2012.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ВВГнг(А)-LS</param>
+<param name="Типоразмер">5×2,5</param>
+<param name="Число жил">5</param>
+<param name="Сечение">2,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1006">
+<name>Кабель ВВГнг(А)-LS 5×6</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/silovoy-mednyy/vvgng-a-ls-5x6/</url>
+<categoryId>1</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/vvgng-a-ls-5x6.jpg</picture>
+<description>Кабель силовой ВВГнг(А)-LS 5×6. Внутренние электроустановки, здания и закрытые кабельные сооружения: групповые и распределительные сети, питание щитов и оборудования. Область применения исполнения нг(А)-LS — по ГОСТ 31565-2012.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ВВГнг(А)-LS</param>
+<param name="Типоразмер">5×6</param>
+<param name="Число жил">5</param>
+<param name="Сечение">6 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1007">
+<name>Кабель ВВГнг(А)-LS 5×10</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/silovoy-mednyy/vvgng-a-ls-5x10/</url>
+<categoryId>1</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/vvgng-a-ls-5x10.jpg</picture>
+<description>Кабель силовой ВВГнг(А)-LS 5×10. Внутренние электроустановки, здания и закрытые кабельные сооружения: групповые и распределительные сети, питание щитов и оборудования. Область применения исполнения нг(А)-LS — по ГОСТ 31565-2012.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ВВГнг(А)-LS</param>
+<param name="Типоразмер">5×10</param>
+<param name="Число жил">5</param>
+<param name="Сечение">10 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1008">
+<name>Кабель ВВГ-Пнг(А)-LS 2×1,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/silovoy-mednyy/vvg-png-a-ls-2x1-5/</url>
+<categoryId>1</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/vvg-png-a-ls-2x1-5.jpg</picture>
+<description>Кабель силовой плоский ВВГ-Пнг(А)-LS 2×1,5. Скрытая и открытая проводка групповых сетей освещения и розеток внутри зданий, где удобен плоский профиль.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ВВГ-Пнг(А)-LS</param>
+<param name="Типоразмер">2×1,5</param>
+<param name="Число жил">2</param>
+<param name="Сечение">1,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">0,66 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1009">
+<name>Кабель ВВГ-Пнг(А)-LS 3×1,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/silovoy-mednyy/vvg-png-a-ls-3x1-5/</url>
+<categoryId>1</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/vvg-png-a-ls-3x1-5.jpg</picture>
+<description>Кабель силовой плоский ВВГ-Пнг(А)-LS 3×1,5. Скрытая и открытая проводка групповых сетей освещения и розеток внутри зданий, где удобен плоский профиль.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ВВГ-Пнг(А)-LS</param>
+<param name="Типоразмер">3×1,5</param>
+<param name="Число жил">3</param>
+<param name="Сечение">1,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">0,66 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1010">
+<name>Кабель ВВГ-Пнг(А)-LS 3×2,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/silovoy-mednyy/vvg-png-a-ls-3x2-5/</url>
+<categoryId>1</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/vvg-png-a-ls-3x2-5.jpg</picture>
+<description>Кабель силовой плоский ВВГ-Пнг(А)-LS 3×2,5. Скрытая и открытая проводка групповых сетей освещения и розеток внутри зданий, где удобен плоский профиль.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ВВГ-Пнг(А)-LS</param>
+<param name="Типоразмер">3×2,5</param>
+<param name="Число жил">3</param>
+<param name="Сечение">2,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">0,66 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1011">
+<name>Кабель ВВГнг(А) 3×2,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/silovoy-mednyy/vvgng-a-3x2-5/</url>
+<categoryId>1</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/vvgng-a-3x2-5.png</picture>
+<description>Кабель силовой ВВГнг(А) 3×2,5. Групповая прокладка преимущественно в открытых наружных кабельных сооружениях (эстакады, галереи) — по ГОСТ 31565-2012.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ВВГнг(А)</param>
+<param name="Типоразмер">3×2,5</param>
+<param name="Число жил">3</param>
+<param name="Сечение">2,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А)</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1012">
+<name>Кабель ВВГнг(А) 4×16</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/silovoy-mednyy/vvgng-a-4x16/</url>
+<categoryId>1</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/vvgng-a-4x16.png</picture>
+<description>Кабель силовой ВВГнг(А) 4×16. Групповая прокладка преимущественно в открытых наружных кабельных сооружениях (эстакады, галереи) — по ГОСТ 31565-2012.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ВВГнг(А)</param>
+<param name="Типоразмер">4×16</param>
+<param name="Число жил">4</param>
+<param name="Сечение">16 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А)</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1013">
+<name>Кабель АВВГнг(А)-LS 4×16</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/silovoy-alyuminievyy/avvgng-a-ls-4x16/</url>
+<categoryId>2</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/avvgng-a-ls-4x16.png</picture>
+<description>Кабель силовой АВВГнг(А)-LS 4×16. Питающие и распределительные сети внутри зданий и в закрытых кабельных сооружениях при больших сечениях.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">АВВГнг(А)-LS</param>
+<param name="Типоразмер">4×16</param>
+<param name="Число жил">4</param>
+<param name="Сечение">16 мм²</param>
+<param name="Материал жилы">алюминий</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1014">
+<name>Кабель АВВГнг(А)-LS 4×25</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/silovoy-alyuminievyy/avvgng-a-ls-4x25/</url>
+<categoryId>2</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/avvgng-a-ls-4x25.png</picture>
+<description>Кабель силовой АВВГнг(А)-LS 4×25. Питающие и распределительные сети внутри зданий и в закрытых кабельных сооружениях при больших сечениях.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">АВВГнг(А)-LS</param>
+<param name="Типоразмер">4×25</param>
+<param name="Число жил">4</param>
+<param name="Сечение">25 мм²</param>
+<param name="Материал жилы">алюминий</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1015">
+<name>Кабель АВВГнг(А)-LS 4×50</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/silovoy-alyuminievyy/avvgng-a-ls-4x50/</url>
+<categoryId>2</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/avvgng-a-ls-4x50.png</picture>
+<description>Кабель силовой АВВГнг(А)-LS 4×50. Питающие и распределительные сети внутри зданий и в закрытых кабельных сооружениях при больших сечениях.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">АВВГнг(А)-LS</param>
+<param name="Типоразмер">4×50</param>
+<param name="Число жил">4</param>
+<param name="Сечение">50 мм²</param>
+<param name="Материал жилы">алюминий</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1016">
+<name>Кабель АВВГнг(А)-LS 4×95</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/silovoy-alyuminievyy/avvgng-a-ls-4x95/</url>
+<categoryId>2</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/avvgng-a-ls-4x95.png</picture>
+<description>Кабель силовой АВВГнг(А)-LS 4×95. Питающие и распределительные сети внутри зданий и в закрытых кабельных сооружениях при больших сечениях.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">АВВГнг(А)-LS</param>
+<param name="Типоразмер">4×95</param>
+<param name="Число жил">4</param>
+<param name="Сечение">95 мм²</param>
+<param name="Материал жилы">алюминий</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1017">
+<name>Кабель АВВГ 2×16</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/silovoy-alyuminievyy/avvg-2x16/</url>
+<categoryId>2</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/avvg-2x16.png</picture>
+<description>Кабель силовой АВВГ 2×16. Одиночная прокладка в помещениях, каналах, на эстакадах — где не требуется исполнение по нераспространению горения при групповой прокладке.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">АВВГ</param>
+<param name="Типоразмер">2×16</param>
+<param name="Число жил">2</param>
+<param name="Сечение">16 мм²</param>
+<param name="Материал жилы">алюминий</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1018">
+<name>Кабель АВВГ 4×35</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/silovoy-alyuminievyy/avvg-4x35/</url>
+<categoryId>2</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/avvg-4x35.png</picture>
+<description>Кабель силовой АВВГ 4×35. Одиночная прокладка в помещениях, каналах, на эстакадах — где не требуется исполнение по нераспространению горения при групповой прокладке.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">АВВГ</param>
+<param name="Типоразмер">4×35</param>
+<param name="Число жил">4</param>
+<param name="Сечение">35 мм²</param>
+<param name="Материал жилы">алюминий</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1019">
+<name>Кабель АВВГ 4×120</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/silovoy-alyuminievyy/avvg-4x120/</url>
+<categoryId>2</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/avvg-4x120.png</picture>
+<description>Кабель силовой АВВГ 4×120. Одиночная прокладка в помещениях, каналах, на эстакадах — где не требуется исполнение по нераспространению горения при групповой прокладке.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">АВВГ</param>
+<param name="Типоразмер">4×120</param>
+<param name="Число жил">4</param>
+<param name="Сечение">120 мм²</param>
+<param name="Материал жилы">алюминий</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1020">
+<name>Кабель КВВГнг(А)-LS 4×1,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/kontrolnyy/kvvgng-a-ls-4x1-5/</url>
+<categoryId>3</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/kvvgng-a-ls-4x1-5.jpg</picture>
+<description>Кабель контрольный КВВГнг(А)-LS 4×1,5. Неподвижное присоединение к электрическим приборам, аппаратам, сборкам зажимов распределительных устройств; цепи управления и сигнализации внутри зданий.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">КВВГнг(А)-LS</param>
+<param name="Типоразмер">4×1,5</param>
+<param name="Число жил">4</param>
+<param name="Сечение">1,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">до 0,66 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 26411-85 / ТУ завода</param>
+</offer>
+<offer id="1021">
+<name>Кабель КВВГнг(А)-LS 7×1,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/kontrolnyy/kvvgng-a-ls-7x1-5/</url>
+<categoryId>3</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/kvvgng-a-ls-7x1-5.jpg</picture>
+<description>Кабель контрольный КВВГнг(А)-LS 7×1,5. Неподвижное присоединение к электрическим приборам, аппаратам, сборкам зажимов распределительных устройств; цепи управления и сигнализации внутри зданий.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">КВВГнг(А)-LS</param>
+<param name="Типоразмер">7×1,5</param>
+<param name="Число жил">7</param>
+<param name="Сечение">1,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">до 0,66 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 26411-85 / ТУ завода</param>
+</offer>
+<offer id="1022">
+<name>Кабель КВВГнг(А)-LS 10×1,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/kontrolnyy/kvvgng-a-ls-10x1-5/</url>
+<categoryId>3</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/kvvgng-a-ls-10x1-5.jpg</picture>
+<description>Кабель контрольный КВВГнг(А)-LS 10×1,5. Неподвижное присоединение к электрическим приборам, аппаратам, сборкам зажимов распределительных устройств; цепи управления и сигнализации внутри зданий.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">КВВГнг(А)-LS</param>
+<param name="Типоразмер">10×1,5</param>
+<param name="Число жил">10</param>
+<param name="Сечение">1,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">до 0,66 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 26411-85 / ТУ завода</param>
+</offer>
+<offer id="1023">
+<name>Кабель КВВГнг(А)-LS 19×1,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/kontrolnyy/kvvgng-a-ls-19x1-5/</url>
+<categoryId>3</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/kvvgng-a-ls-19x1-5.jpg</picture>
+<description>Кабель контрольный КВВГнг(А)-LS 19×1,5. Неподвижное присоединение к электрическим приборам, аппаратам, сборкам зажимов распределительных устройств; цепи управления и сигнализации внутри зданий.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">КВВГнг(А)-LS</param>
+<param name="Типоразмер">19×1,5</param>
+<param name="Число жил">19</param>
+<param name="Сечение">1,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">до 0,66 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 26411-85 / ТУ завода</param>
+</offer>
+<offer id="1024">
+<name>Кабель КВВГЭнг(А)-LS 7×1,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/kontrolnyy/kvvgeng-a-ls-7x1-5/</url>
+<categoryId>3</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/kvvgeng-a-ls-7x1-5.jpg</picture>
+<description>Кабель контрольный экранированный КВВГЭнг(А)-LS 7×1,5. Цепи управления и измерения, чувствительные к электромагнитным помехам: КИПиА, автоматика, присоединение датчиков.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">КВВГЭнг(А)-LS</param>
+<param name="Типоразмер">7×1,5</param>
+<param name="Число жил">7</param>
+<param name="Сечение">1,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">до 0,66 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ТУ завода</param>
+</offer>
+<offer id="1025">
+<name>Кабель КВВГнг(А)-FRLS 4×1,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/ognestoykiy/kvvgng-a-frls-4x1-5/</url>
+<categoryId>8</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/kvvgng-a-frls-4x1-5.jpg</picture>
+<description>Кабель контрольный огнестойкий КВВГнг(А)-FRLS 4×1,5. Цепи управления систем противопожарной защиты, которые должны работать во время пожара (ч. 2 ст. 82 123-ФЗ).</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">КВВГнг(А)-FRLS</param>
+<param name="Типоразмер">4×1,5</param>
+<param name="Число жил">4</param>
+<param name="Сечение">1,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">до 0,66 кВ</param>
+<param name="Исполнение">нг(А) LS FR</param>
+<param name="Стандарт">ТУ завода</param>
+</offer>
+<offer id="1026">
+<name>Кабель КВВГнг(А)-FRLS 7×1,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/ognestoykiy/kvvgng-a-frls-7x1-5/</url>
+<categoryId>8</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/kvvgng-a-frls-7x1-5.jpg</picture>
+<description>Кабель контрольный огнестойкий КВВГнг(А)-FRLS 7×1,5. Цепи управления систем противопожарной защиты, которые должны работать во время пожара (ч. 2 ст. 82 123-ФЗ).</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">КВВГнг(А)-FRLS</param>
+<param name="Типоразмер">7×1,5</param>
+<param name="Число жил">7</param>
+<param name="Сечение">1,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">до 0,66 кВ</param>
+<param name="Исполнение">нг(А) LS FR</param>
+<param name="Стандарт">ТУ завода</param>
+</offer>
+<offer id="1027">
+<name>Кабель КГ 3×2,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/gibkiy/kg-3x2-5/</url>
+<categoryId>4</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/kg-3x2-5.png</picture>
+<description>Кабель силовой гибкий КГ 3×2,5. Подключение передвижных механизмов, сварочного и строительного оборудования, временное электроснабжение площадок.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">КГ</param>
+<param name="Типоразмер">3×2,5</param>
+<param name="Число жил">3</param>
+<param name="Сечение">2,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">до 0,66 кВ</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 24334 / ТУ завода</param>
+</offer>
+<offer id="1028">
+<name>Кабель КГ 3×4+1×2,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/gibkiy/kg-3x4-1x2-5/</url>
+<categoryId>4</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/kg-3x4-1x2-5.png</picture>
+<description>Кабель силовой гибкий КГ 3×4+1×2,5. Подключение передвижных механизмов, сварочного и строительного оборудования, временное электроснабжение площадок.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">КГ</param>
+<param name="Типоразмер">3×4+1×2,5</param>
+<param name="Число жил">4</param>
+<param name="Сечение">4 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">до 0,66 кВ</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 24334 / ТУ завода</param>
+</offer>
+<offer id="1029">
+<name>Кабель КГ 3×6+1×4</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/gibkiy/kg-3x6-1x4/</url>
+<categoryId>4</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/kg-3x6-1x4.png</picture>
+<description>Кабель силовой гибкий КГ 3×6+1×4. Подключение передвижных механизмов, сварочного и строительного оборудования, временное электроснабжение площадок.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">КГ</param>
+<param name="Типоразмер">3×6+1×4</param>
+<param name="Число жил">4</param>
+<param name="Сечение">6 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">до 0,66 кВ</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 24334 / ТУ завода</param>
+</offer>
+<offer id="1030">
+<name>Кабель КГ 4×10</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/gibkiy/kg-4x10/</url>
+<categoryId>4</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/kg-4x10.png</picture>
+<description>Кабель силовой гибкий КГ 4×10. Подключение передвижных механизмов, сварочного и строительного оборудования, временное электроснабжение площадок.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">КГ</param>
+<param name="Типоразмер">4×10</param>
+<param name="Число жил">4</param>
+<param name="Сечение">10 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">до 0,66 кВ</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 24334 / ТУ завода</param>
+</offer>
+<offer id="1031">
+<name>Провод ПВС 2×0,75</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/provoda/pvs-2x0-75/</url>
+<categoryId>5</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/pvs-2x0-75.jpg</picture>
+<description>Провод соединительный ПВС 2×0,75. Подключение электроприборов и инструмента, удлинители, переносные устройства.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ПВС</param>
+<param name="Типоразмер">2×0,75</param>
+<param name="Число жил">2</param>
+<param name="Сечение">0,75 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">до 380 В</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 7399-97</param>
+</offer>
+<offer id="1032">
+<name>Провод ПВС 3×1,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/provoda/pvs-3x1-5/</url>
+<categoryId>5</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/pvs-3x1-5.jpg</picture>
+<description>Провод соединительный ПВС 3×1,5. Подключение электроприборов и инструмента, удлинители, переносные устройства.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ПВС</param>
+<param name="Типоразмер">3×1,5</param>
+<param name="Число жил">3</param>
+<param name="Сечение">1,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">до 380 В</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 7399-97</param>
+</offer>
+<offer id="1033">
+<name>Провод ПВС 3×2,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/provoda/pvs-3x2-5/</url>
+<categoryId>5</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/pvs-3x2-5.jpg</picture>
+<description>Провод соединительный ПВС 3×2,5. Подключение электроприборов и инструмента, удлинители, переносные устройства.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ПВС</param>
+<param name="Типоразмер">3×2,5</param>
+<param name="Число жил">3</param>
+<param name="Сечение">2,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">до 380 В</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 7399-97</param>
+</offer>
+<offer id="1034">
+<name>Шнур ШВВП 2×0,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/provoda/shvvp-2x0-5/</url>
+<categoryId>5</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/shvvp-2x0-5.png</picture>
+<description>Шнур соединительный ШВВП 2×0,5. Подключение маломощных бытовых и офисных электроприборов, светильников.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ШВВП</param>
+<param name="Типоразмер">2×0,5</param>
+<param name="Число жил">2</param>
+<param name="Сечение">0,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">до 380 В</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 7399-97</param>
+</offer>
+<offer id="1035">
+<name>Шнур ШВВП 2×0,75</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/provoda/shvvp-2x0-75/</url>
+<categoryId>5</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/shvvp-2x0-75.png</picture>
+<description>Шнур соединительный ШВВП 2×0,75. Подключение маломощных бытовых и офисных электроприборов, светильников.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ШВВП</param>
+<param name="Типоразмер">2×0,75</param>
+<param name="Число жил">2</param>
+<param name="Сечение">0,75 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">до 380 В</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 7399-97</param>
+</offer>
+<offer id="1036">
+<name>Провод ПуГВ 1×1,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/provoda/pugv-1x1-5/</url>
+<categoryId>5</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/pugv-1x1-5.jpg</picture>
+<description>Провод установочный гибкий ПуГВ 1×1,5. Монтаж электрощитов и шкафов автоматики, внутренние соединения оборудования, прокладка в трубах и коробах.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ПуГВ</param>
+<param name="Типоразмер">1×1,5</param>
+<param name="Число жил">1</param>
+<param name="Сечение">1,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">450/750 В</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 31947-2012</param>
+</offer>
+<offer id="1037">
+<name>Провод ПуГВ 1×2,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/provoda/pugv-1x2-5/</url>
+<categoryId>5</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/pugv-1x2-5.jpg</picture>
+<description>Провод установочный гибкий ПуГВ 1×2,5. Монтаж электрощитов и шкафов автоматики, внутренние соединения оборудования, прокладка в трубах и коробах.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ПуГВ</param>
+<param name="Типоразмер">1×2,5</param>
+<param name="Число жил">1</param>
+<param name="Сечение">2,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">450/750 В</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 31947-2012</param>
+</offer>
+<offer id="1038">
+<name>Провод ПуГВ 1×6</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/provoda/pugv-1x6/</url>
+<categoryId>5</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/pugv-1x6.jpg</picture>
+<description>Провод установочный гибкий ПуГВ 1×6. Монтаж электрощитов и шкафов автоматики, внутренние соединения оборудования, прокладка в трубах и коробах.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ПуГВ</param>
+<param name="Типоразмер">1×6</param>
+<param name="Число жил">1</param>
+<param name="Сечение">6 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">450/750 В</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 31947-2012</param>
+</offer>
+<offer id="1039">
+<name>Провод ПуВ 1×2,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/provoda/puv-1x2-5/</url>
+<categoryId>5</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/puv-1x2-5.png</picture>
+<description>Провод установочный ПуВ 1×2,5. Стационарная прокладка в трубах, коробах и щитах; однопроволочная жила.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ПуВ</param>
+<param name="Типоразмер">1×2,5</param>
+<param name="Число жил">1</param>
+<param name="Сечение">2,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">450/750 В</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 31947-2012</param>
+</offer>
+<offer id="1040">
+<name>Провод СИП-2 3×35+1×54,6</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/sip/sip-2-3x35-1x54-6/</url>
+<categoryId>6</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/sip-2-3x35-1x54-6.png</picture>
+<description>Провод самонесущий изолированный СИП-2 3×35+1×54,6. Магистрали и ответвления воздушных линий 0,4 кВ, вводы в здания.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">СИП-2</param>
+<param name="Типоразмер">3×35+1×54,6</param>
+<param name="Число жил">4</param>
+<param name="Сечение">35 мм²</param>
+<param name="Материал жилы">алюминий</param>
+<param name="Напряжение">0,6 / 1 кВ</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 31946-2012</param>
+</offer>
+<offer id="1041">
+<name>Провод СИП-2 3×50+1×54,6</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/sip/sip-2-3x50-1x54-6/</url>
+<categoryId>6</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/sip-2-3x50-1x54-6.png</picture>
+<description>Провод самонесущий изолированный СИП-2 3×50+1×54,6. Магистрали и ответвления воздушных линий 0,4 кВ, вводы в здания.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">СИП-2</param>
+<param name="Типоразмер">3×50+1×54,6</param>
+<param name="Число жил">4</param>
+<param name="Сечение">50 мм²</param>
+<param name="Материал жилы">алюминий</param>
+<param name="Напряжение">0,6 / 1 кВ</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 31946-2012</param>
+</offer>
+<offer id="1042">
+<name>Провод СИП-2 3×70+1×54,6</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/sip/sip-2-3x70-1x54-6/</url>
+<categoryId>6</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/sip-2-3x70-1x54-6.png</picture>
+<description>Провод самонесущий изолированный СИП-2 3×70+1×54,6. Магистрали и ответвления воздушных линий 0,4 кВ, вводы в здания.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">СИП-2</param>
+<param name="Типоразмер">3×70+1×54,6</param>
+<param name="Число жил">4</param>
+<param name="Сечение">70 мм²</param>
+<param name="Материал жилы">алюминий</param>
+<param name="Напряжение">0,6 / 1 кВ</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 31946-2012</param>
+</offer>
+<offer id="1043">
+<name>Провод СИП-4 2×16</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/sip/sip-4-2x16/</url>
+<categoryId>6</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/sip-4-2x16.png</picture>
+<description>Провод самонесущий изолированный СИП-4 2×16. Ответвления от ВЛ 0,4 кВ к вводам зданий, небольшие пролёты.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">СИП-4</param>
+<param name="Типоразмер">2×16</param>
+<param name="Число жил">2</param>
+<param name="Сечение">16 мм²</param>
+<param name="Материал жилы">алюминий</param>
+<param name="Напряжение">0,6 / 1 кВ</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 31946-2012</param>
+</offer>
+<offer id="1044">
+<name>Провод СИП-4 4×16</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/sip/sip-4-4x16/</url>
+<categoryId>6</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/sip-4-4x16.png</picture>
+<description>Провод самонесущий изолированный СИП-4 4×16. Ответвления от ВЛ 0,4 кВ к вводам зданий, небольшие пролёты.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">СИП-4</param>
+<param name="Типоразмер">4×16</param>
+<param name="Число жил">4</param>
+<param name="Сечение">16 мм²</param>
+<param name="Материал жилы">алюминий</param>
+<param name="Напряжение">0,6 / 1 кВ</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 31946-2012</param>
+</offer>
+<offer id="1045">
+<name>Провод СИП-3 1×70</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/sip/sip-3-1x70/</url>
+<categoryId>6</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/sip-3-1x70.png</picture>
+<description>Провод защищённый для ВЛЗ СИП-3 1×70. Воздушные линии с защищёнными проводами (ВЛЗ) среднего напряжения.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">СИП-3</param>
+<param name="Типоразмер">1×70</param>
+<param name="Число жил">1</param>
+<param name="Сечение">70 мм²</param>
+<param name="Материал жилы">алюминий</param>
+<param name="Напряжение">ВЛЗ 6–35 кВ [номинал уточнить по паспорту]</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 31946-2012</param>
+</offer>
+<offer id="1046">
+<name>Кабель ВБШвнг(А)-LS 4×16</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/bronirovannyy/vbshvng-a-ls-4x16/</url>
+<categoryId>7</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/vbshvng-a-ls-4x16.jpg</picture>
+<description>Кабель силовой бронированный ВБШвнг(А)-LS 4×16. Прокладка в земле (траншеях), в помещениях и кабельных сооружениях при опасности механических повреждений.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ВБШвнг(А)-LS</param>
+<param name="Типоразмер">4×16</param>
+<param name="Число жил">4</param>
+<param name="Сечение">16 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1047">
+<name>Кабель ВБШвнг(А)-LS 5×10</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/bronirovannyy/vbshvng-a-ls-5x10/</url>
+<categoryId>7</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/vbshvng-a-ls-5x10.jpg</picture>
+<description>Кабель силовой бронированный ВБШвнг(А)-LS 5×10. Прокладка в земле (траншеях), в помещениях и кабельных сооружениях при опасности механических повреждений.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ВБШвнг(А)-LS</param>
+<param name="Типоразмер">5×10</param>
+<param name="Число жил">5</param>
+<param name="Сечение">10 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1048">
+<name>Кабель АПвБбШв 4×95</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/bronirovannyy/apvbbshv-4x95/</url>
+<categoryId>7</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/apvbbshv-4x95.png</picture>
+<description>Кабель силовой бронированный АПвБбШв 4×95. Питающие линии в земле и на открытом воздухе, вводы на объекты, промплощадки.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">АПвБбШв</param>
+<param name="Типоразмер">4×95</param>
+<param name="Число жил">4</param>
+<param name="Сечение">95 мм²</param>
+<param name="Материал жилы">алюминий</param>
+<param name="Напряжение">1 кВ</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1049">
+<name>Кабель АПвБбШв 4×150</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/bronirovannyy/apvbbshv-4x150/</url>
+<categoryId>7</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/apvbbshv-4x150.png</picture>
+<description>Кабель силовой бронированный АПвБбШв 4×150. Питающие линии в земле и на открытом воздухе, вводы на объекты, промплощадки.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">АПвБбШв</param>
+<param name="Типоразмер">4×150</param>
+<param name="Число жил">4</param>
+<param name="Сечение">150 мм²</param>
+<param name="Материал жилы">алюминий</param>
+<param name="Напряжение">1 кВ</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1050">
+<name>Кабель АПвБбШв 4×240</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/bronirovannyy/apvbbshv-4x240/</url>
+<categoryId>7</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/apvbbshv-4x240.png</picture>
+<description>Кабель силовой бронированный АПвБбШв 4×240. Питающие линии в земле и на открытом воздухе, вводы на объекты, промплощадки.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">АПвБбШв</param>
+<param name="Типоразмер">4×240</param>
+<param name="Число жил">4</param>
+<param name="Сечение">240 мм²</param>
+<param name="Материал жилы">алюминий</param>
+<param name="Напряжение">1 кВ</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ГОСТ 31996-2012</param>
+</offer>
+<offer id="1051">
+<name>Кабель ВВГнг(А)-FRLS 3×1,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/ognestoykiy/vvgng-a-frls-3x1-5/</url>
+<categoryId>8</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/vvgng-a-frls-3x1-5.png</picture>
+<description>Кабель силовой огнестойкий ВВГнг(А)-FRLS 3×1,5. Питание систем противопожарной защиты: насосы пожаротушения, дымоудаление, СОУЭ, аварийное освещение — где цепь обязана работать при пожаре.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ВВГнг(А)-FRLS</param>
+<param name="Типоразмер">3×1,5</param>
+<param name="Число жил">3</param>
+<param name="Сечение">1,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А) LS FR</param>
+<param name="Стандарт">ТУ завода</param>
+</offer>
+<offer id="1052">
+<name>Кабель ВВГнг(А)-FRLS 3×2,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/ognestoykiy/vvgng-a-frls-3x2-5/</url>
+<categoryId>8</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/vvgng-a-frls-3x2-5.png</picture>
+<description>Кабель силовой огнестойкий ВВГнг(А)-FRLS 3×2,5. Питание систем противопожарной защиты: насосы пожаротушения, дымоудаление, СОУЭ, аварийное освещение — где цепь обязана работать при пожаре.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ВВГнг(А)-FRLS</param>
+<param name="Типоразмер">3×2,5</param>
+<param name="Число жил">3</param>
+<param name="Сечение">2,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А) LS FR</param>
+<param name="Стандарт">ТУ завода</param>
+</offer>
+<offer id="1053">
+<name>Кабель ВВГнг(А)-FRLS 5×4</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/ognestoykiy/vvgng-a-frls-5x4/</url>
+<categoryId>8</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/vvgng-a-frls-5x4.png</picture>
+<description>Кабель силовой огнестойкий ВВГнг(А)-FRLS 5×4. Питание систем противопожарной защиты: насосы пожаротушения, дымоудаление, СОУЭ, аварийное освещение — где цепь обязана работать при пожаре.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ВВГнг(А)-FRLS</param>
+<param name="Типоразмер">5×4</param>
+<param name="Число жил">5</param>
+<param name="Сечение">4 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А) LS FR</param>
+<param name="Стандарт">ТУ завода</param>
+</offer>
+<offer id="1054">
+<name>Кабель ППГнг(А)-FRHF 3×1,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/ognestoykiy/ppgng-a-frhf-3x1-5/</url>
+<categoryId>8</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/ppgng-a-frhf-3x1-5.jpg</picture>
+<description>Кабель силовой огнестойкий безгалогенный ППГнг(А)-FRHF 3×1,5. Цепи СПЗ в зданиях с массовым пребыванием людей, объектах с электроникой и требованиями к коррозионной активности продуктов горения.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ППГнг(А)-FRHF</param>
+<param name="Типоразмер">3×1,5</param>
+<param name="Число жил">3</param>
+<param name="Сечение">1,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А) FR HF</param>
+<param name="Стандарт">ТУ завода</param>
+</offer>
+<offer id="1055">
+<name>Кабель ППГнг(А)-FRHF 3×2,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/ognestoykiy/ppgng-a-frhf-3x2-5/</url>
+<categoryId>8</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/ppgng-a-frhf-3x2-5.jpg</picture>
+<description>Кабель силовой огнестойкий безгалогенный ППГнг(А)-FRHF 3×2,5. Цепи СПЗ в зданиях с массовым пребыванием людей, объектах с электроникой и требованиями к коррозионной активности продуктов горения.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">ППГнг(А)-FRHF</param>
+<param name="Типоразмер">3×2,5</param>
+<param name="Число жил">3</param>
+<param name="Сечение">2,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">0,66 / 1 кВ</param>
+<param name="Исполнение">нг(А) FR HF</param>
+<param name="Стандарт">ТУ завода</param>
+</offer>
+<offer id="1056">
+<name>Кабель КПСнг(А)-FRLS 1×2×0,75</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/ognestoykiy/kpsng-a-frls-1x2x0-75/</url>
+<categoryId>8</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/kpsng-a-frls-1x2x0-75.jpg</picture>
+<description>Кабель для систем охраны и противопожарной защиты КПСнг(А)-FRLS 1×2×0,75. Шлейфы пожарной сигнализации, линии СОУЭ, системы охраны. Размер указывается как N×2×S: число пар × 2 жилы × сечение, мм².</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">КПСнг(А)-FRLS</param>
+<param name="Типоразмер">1×2×0,75</param>
+<param name="Число жил">2</param>
+<param name="Сечение">0,75 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">слаботочные цепи (по ТУ завода)</param>
+<param name="Исполнение">нг(А) LS FR</param>
+<param name="Стандарт">ТУ завода</param>
+</offer>
+<offer id="1057">
+<name>Кабель КПСнг(А)-FRLS 1×2×1,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/ognestoykiy/kpsng-a-frls-1x2x1-5/</url>
+<categoryId>8</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/kpsng-a-frls-1x2x1-5.jpg</picture>
+<description>Кабель для систем охраны и противопожарной защиты КПСнг(А)-FRLS 1×2×1,5. Шлейфы пожарной сигнализации, линии СОУЭ, системы охраны. Размер указывается как N×2×S: число пар × 2 жилы × сечение, мм².</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">КПСнг(А)-FRLS</param>
+<param name="Типоразмер">1×2×1,5</param>
+<param name="Число жил">2</param>
+<param name="Сечение">1,5 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">слаботочные цепи (по ТУ завода)</param>
+<param name="Исполнение">нг(А) LS FR</param>
+<param name="Стандарт">ТУ завода</param>
+</offer>
+<offer id="1058">
+<name>Кабель КПСнг(А)-FRLS 2×2×0,75</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/ognestoykiy/kpsng-a-frls-2x2x0-75/</url>
+<categoryId>8</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/assets/products/kpsng-a-frls-2x2x0-75.jpg</picture>
+<description>Кабель для систем охраны и противопожарной защиты КПСнг(А)-FRLS 2×2×0,75. Шлейфы пожарной сигнализации, линии СОУЭ, системы охраны. Размер указывается как N×2×S: число пар × 2 жилы × сечение, мм².</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">КПСнг(А)-FRLS</param>
+<param name="Типоразмер">2×2×0,75</param>
+<param name="Число жил">4</param>
+<param name="Сечение">0,75 мм²</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">слаботочные цепи (по ТУ завода)</param>
+<param name="Исполнение">нг(А) LS FR</param>
+<param name="Стандарт">ТУ завода</param>
+</offer>
+<offer id="1059">
+<name>Кабель U/UTP кат.5e нг(А)-LS 4×2×0,52</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/svyaz/u-utp-5e-4x2x0-52/</url>
+<categoryId>9</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/u-utp-5e-4x2x0-52.png</picture>
+<description>Кабель витая пара U/UTP кат.5e нг(А)-LS 4×2×0,52. Локальные вычислительные сети, видеонаблюдение (IP), СКС внутри зданий.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">U/UTP кат.5e нг(А)-LS</param>
+<param name="Типоразмер">4×2×0,52</param>
+<param name="Число жил">8</param>
+<param name="Сечение">диаметр жилы 0,52 мм</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">—</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ТУ завода</param>
+</offer>
+<offer id="1060">
+<name>Кабель F/UTP кат.5e нг(А)-LS 4×2×0,52</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/svyaz/f-utp-5e-4x2x0-52/</url>
+<categoryId>9</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/f-utp-5e-4x2x0-52.png</picture>
+<description>Кабель витая пара экранированный F/UTP кат.5e нг(А)-LS 4×2×0,52. СКС в условиях электромагнитных помех: производственные помещения, рядом с силовыми линиями.</description>
+<sales_notes>Цена по запросу, опт для юрлиц</sales_notes>
+<param name="Марка">F/UTP кат.5e нг(А)-LS</param>
+<param name="Типоразмер">4×2×0,52</param>
+<param name="Число жил">8</param>
+<param name="Сечение">диаметр жилы 0,52 мм</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">—</param>
+<param name="Исполнение">нг(А) LS</param>
+<param name="Стандарт">ТУ завода</param>
+</offer>
+<offer id="1061">
+<name>Кабель КСПВ 4×0,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/svyaz/kspv-4x0-5/</url>
+<price>37.18</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/kspv-4x0-5.png</picture>
+<description>Кабель сигнальный КСПВ 4×0,5. Охранная сигнализация, домофония, линии связи и управления внутри зданий. Размер: число жил × диаметр жилы, мм.</description>
+<sales_notes>Опт для юрлиц, счёт по спецификации</sales_notes>
+<param name="Марка">КСПВ</param>
+<param name="Типоразмер">4×0,5</param>
+<param name="Число жил">4</param>
+<param name="Сечение">диаметр жилы 0,5 мм</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">слаботочные цепи</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ТУ завода</param>
+</offer>
+<offer id="1062">
+<name>Кабель КСПВ 8×0,5</name>
+<url>https://best1989-hue.github.io/cable-shop/catalog/svyaz/kspv-8x0-5/</url>
+<price>70.51</price>
+<currencyId>RUR</currencyId>
+<categoryId>9</categoryId>
+<picture>https://best1989-hue.github.io/cable-shop/img/p/kspv-8x0-5.png</picture>
+<description>Кабель сигнальный КСПВ 8×0,5. Охранная сигнализация, домофония, линии связи и управления внутри зданий. Размер: число жил × диаметр жилы, мм.</description>
+<sales_notes>Опт для юрлиц, счёт по спецификации</sales_notes>
+<param name="Марка">КСПВ</param>
+<param name="Типоразмер">8×0,5</param>
+<param name="Число жил">8</param>
+<param name="Сечение">диаметр жилы 0,5 мм</param>
+<param name="Материал жилы">медь</param>
+<param name="Напряжение">слаботочные цепи</param>
+<param name="Исполнение">—</param>
+<param name="Стандарт">ТУ завода</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
