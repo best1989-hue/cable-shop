@@ -1,1 +1,1 @@
-var SITE_CONFIG = {"brand":"[НАЗВАНИЕ]","currency":"RUB","lptracker":{"endpoint":"","projectId":""}};
+var SITE_CONFIG = {"brand":"Сечение","currency":"RUB","lptracker":{"endpoint":"","projectId":""}};

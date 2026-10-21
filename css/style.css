@@ -131,3 +131,15 @@ h1{font-size:1.65rem;line-height:1.2;margin:.4rem 0 .6rem}h2{font-size:1.25rem;l
 .card-img picture,.pp-img picture{display:block}.card-img img,.pp-img img{background:#fff;object-fit:contain}
 .pp-img figcaption{font-size:.85rem;color:var(--mut);margin-top:6px}
 .pp-price .vat{font-size:1rem;font-weight:600;color:var(--ink2)}
+/* --- фаза 3: единая область изображения в карточках --- */
+.card-img{display:block;aspect-ratio:1/1;background:#fff;border:1px solid var(--line);border-radius:8px;padding:6px;overflow:hidden}
+.card-img picture{display:block;width:100%;height:100%}
+.card-img img{width:100%!important;height:100%!important;max-width:none!important;margin:0!important;object-fit:contain;border-radius:0;display:block}
+.card{grid-template-columns:96px 1fr;align-items:start}
+@media (min-width:600px){.card{display:flex;flex-direction:column;align-items:stretch}.card-b{display:flex;flex-direction:column;flex:1 1 auto}.card .btn{margin-top:auto}.card-t{min-height:2.6em}}
+.cat-grid img{object-fit:contain;background:#fff;border:1px solid var(--line);padding:3px}
+/* --- фаза 3: фото на первом экране --- */
+.hero-img{display:block;margin:0;order:-1}
+.hero-img img{display:block;width:100%;height:auto;aspect-ratio:16/7;object-fit:cover;object-position:60% 55%;border-radius:12px;background:#e9edf1}
+@media (min-width:900px){.hero-img{order:0;max-width:540px;width:100%;justify-self:end}.hero-img img{aspect-ratio:4/3;object-position:62% 50%;border-radius:16px;box-shadow:0 10px 30px rgba(28,40,51,.12)}}
+.logo svg{flex:none}
